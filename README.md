@@ -26,8 +26,9 @@ The project covers:
 * Test Execution: Execution results and reports
 * Defects: Bug reports and analysis
 
-  ## Traceability
-  The project maintains traceability between:
+## Traceability
+  
+The project maintains traceability between:
 - User Stories
 - Acceptance Criteria
 - Test Cases
